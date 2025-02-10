@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   output: 'export',
   trailingSlash: true,
-  basePath: 'https://github.com/RevanToma/quiz',
+  basePath: '/quiz',
 };
 
 export default nextConfig;
